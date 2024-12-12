@@ -45,7 +45,7 @@ export default function Home() {
     <div className="min-h-screen bg-gradient-to-b from-blue-50 to-gray-100 flex flex-col items-center py-10 px-4">
       <ToastContainer position="top-right" />
       <h1 className="text-4xl font-bold mb-6 text-blue-600 text-center">
-        Telegram Bot Messenger
+        Telegram Bot
       </h1>
 
       <form
